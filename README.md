@@ -1,5 +1,6 @@
 # Chat Application
 
+![Screenshot](https://user-images.githubusercontent.com/60659414/154723517-3323a258-7058-42ac-8f53-b137a9af57a7.png)
 
 ## Introduction
 
